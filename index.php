@@ -666,7 +666,6 @@
 			</div>										 
 		</div>
 	</div>
-	yehyuedue
 <?php 
 include 'includes/script.php'
 ?>
