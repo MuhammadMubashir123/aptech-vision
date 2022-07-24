@@ -8,7 +8,7 @@
   <script>
     AOS.init({
 		duration: 1000,
-		delay: 800,
+		delay: 200,
 		offset:100,
 	});
   </script>
