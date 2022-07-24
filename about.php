@@ -21,7 +21,7 @@
 		</div>
 	</div>
 	
-	<div class="section padding-top-bottom-smaller background-dark-2 over-hide">		
+	<!-- <div class="section padding-top-bottom-smaller background-dark-2 over-hide">		
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">	
@@ -31,7 +31,7 @@
 				</div>
 			</div>
 		</div>	
-	</div>
+	</div> -->
 	
 	<div class="section padding-top-bottom over-hide">
 		<div class="container">
@@ -46,7 +46,7 @@
 						<img src="img/4.svg" alt="">
 						<h5 class="mt-2">welcome drink</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 				<div class="col-md-4 mt-5 mt-md-0">
@@ -54,7 +54,7 @@
 						<img src="img/5.svg" alt="">
 						<h5 class="mt-2">swimming pool</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 				<div class="col-md-4 mt-5 mt-md-0">
@@ -62,7 +62,7 @@
 						<img src="img/6.svg" alt="">
 						<h5 class="mt-2">food included</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 			</div>
@@ -83,7 +83,7 @@
 						<div class="col-10 col-xl-8 text-center">
 							<h3 class="text-center">Private pool suite</h3>
 							<p class="text-center mt-4">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-							<a class="mt-5 btn btn-primary" href="search.html">check availability</a>
+							<!-- <a class="mt-5 btn btn-primary" href="search.html">check availability</a> -->
 						</div>	
 					</div>
 				</div>
@@ -94,7 +94,7 @@
 						<div class="col-10 col-xl-8 text-center">
 							<h3 class="text-center">Sea view suite</h3>
 							<p class="text-center mt-4">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-							<a class="mt-5 btn btn-primary" href="search.html">check availability</a>
+							<!-- <a class="mt-5 btn btn-primary" href="search.html">check availability</a> -->
 						</div>	
 					</div>
 				</div>
