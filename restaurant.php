@@ -24,7 +24,7 @@
 		</div>
 	</div>
 	
-	<div class="section padding-top-bottom-smaller background-dark-2 over-hide">		
+	<!-- <div class="section padding-top-bottom-smaller background-dark-2 over-hide">		
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">	
@@ -34,7 +34,7 @@
 				</div>
 			</div>
 		</div>	
-	</div>
+	</div> -->
 	
 	<div class="section padding-top over-hide">
 		<div class="container">
@@ -44,7 +44,7 @@
 						<img src="img/res-1.png" alt="">
 						<h5 class="mt-3">High quality foods</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 				<div class="col-md-4 mt-5 mt-md-0">
@@ -52,7 +52,7 @@
 						<img src="img/res-2.png" alt="">
 						<h5 class="mt-3">Inspiring recipes</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 				<div class="col-md-4 mt-5 mt-md-0">
@@ -60,7 +60,7 @@
 						<img src="img/res-3.png" alt="">
 						<h5 class="mt-3">Salutary meals</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 			</div>
@@ -99,14 +99,14 @@
 						<h5><span>$26</span></h5>
 					</div>
 				</div>
-				<div class="col-md-6 mt-4" data-scroll-reveal="enter bottom move 50px over 0.7s after 0.4s">
+				<!-- <div class="col-md-6 mt-4" data-scroll-reveal="enter bottom move 50px over 0.7s after 0.4s">
 					<div class="restaurant-box">
 						<img src="img/restrurant/10.jpg" alt="">
 						<h6><span>crab with curry sources</span></h6>
 						<p><span>crab / potatoes / rice</span></p>
-						<h5><span>$64</span></h5>
+						<!-- <h5><span>$64</span></h5> -->
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>	
 	</div>

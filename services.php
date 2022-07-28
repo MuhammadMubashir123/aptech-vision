@@ -44,7 +44,7 @@
 						<img src="img/1.svg" alt="">
 						<h5 class="mt-2">smoking free</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-5 mt-sm-0">
@@ -52,7 +52,7 @@
 						<img src="img/2.svg" alt="">
 						<h5 class="mt-2">king beds</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-5 mt-lg-0">
@@ -60,7 +60,7 @@
 						<img src="img/3.svg" alt="">
 						<h5 class="mt-2">Yacht rental</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-5">
@@ -68,7 +68,7 @@
 						<img src="img/4.svg" alt="">
 						<h5 class="mt-2">welcome drink</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-5">
@@ -76,7 +76,7 @@
 						<img src="img/5.svg" alt="">
 						<h5 class="mt-2">swimming pool</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-5">
@@ -84,7 +84,7 @@
 						<img src="img/6.svg" alt="">
 						<h5 class="mt-2">food included</h5>
 						<p class="mt-3">Sed ut perspiciatis unde omnis iste natus error sit, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-						<a class="mt-1 btn btn-primary" href="services.html">read more</a>
+						<!-- <a class="mt-1 btn btn-primary" href="services.html">read more</a> -->
 					</div>
 				</div>
 			</div>
@@ -156,7 +156,7 @@
 						<div class="col-9 pt-4 pt-xl-0 pb-5 pb-xl-0 text-center">
 							<h5 class="">spa salon</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-							<a class="mt-1 btn btn-primary" href="post.html">explore</a>
+							<!-- <a class="mt-1 btn btn-primary" href="post.html">explore</a> -->
 						</div>
 					</div>	
 				</div>
@@ -167,7 +167,7 @@
 						<div class="col-9 pt-4 pt-xl-0 pb-5 pb-xl-0 text-center">
 							<h5 class="">restaurant</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-							<a class="mt-1 btn btn-primary" href="post.html">explore</a>
+							<!-- <a class="mt-1 btn btn-primary" href="post.html">explore</a> -->
 						</div>
 					</div>
 				</div>
@@ -188,7 +188,7 @@
 						<div class="col-9 pt-4 pt-xl-0 pb-5 pb-xl-0 text-center">
 							<h5 class="">swimming pool</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-							<a class="mt-1 btn btn-primary" href="post.html">explore</a>
+							<!-- <a class="mt-1 btn btn-primary" href="post.html">explore</a> -->
 						</div>
 					</div>	
 				</div>
@@ -199,7 +199,7 @@
 						<div class="col-9 pt-4 pt-xl-0 pb-5 pb-xl-0 text-center">
 							<h5 class="">activities</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
-							<a class="mt-1 btn btn-primary" href="post.html">explore</a>
+							<!-- <a class="mt-1 btn btn-primary" href="post.html">explore</a> -->
 						</div>
 					</div>
 				</div>

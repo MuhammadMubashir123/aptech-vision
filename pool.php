@@ -24,7 +24,7 @@
 		</div>
 	</div>
 	
-	<div class="section padding-top-bottom-smaller background-dark-2 over-hide">		
+	<!-- <div class="section padding-top-bottom-smaller background-dark-2 over-hide">		
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">	
@@ -34,7 +34,7 @@
 				</div>
 			</div>
 		</div>	
-	</div>
+	</div> -->
 	
 	<div class="section padding-top over-hide">
 		<div class="container">
@@ -103,7 +103,7 @@
 						<img src="img/pool/image4.jpg" alt="">
 						<h6><span>Kids Pool</span></h6>
 						<p><span> pure safe for kids and children </span></p>
-						<h5><span>$64</span></h5>
+						<!-- <h5><span>$64</span></h5> -->
 					</div>
 				</div>
 			</div>
