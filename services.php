@@ -19,7 +19,7 @@
 		</div>
 	</div>
 	
-	<div class="section padding-top-bottom-smaller background-dark-2 over-hide">		
+	<!-- <div class="section padding-top-bottom-smaller background-dark-2 over-hide">		
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">	
@@ -29,7 +29,7 @@
 				</div>
 			</div>
 		</div>	
-	</div>
+	</div> -->
 	
 	<div class="section padding-top-bottom over-hide">
 		<div class="container">
