@@ -63,6 +63,7 @@
 		</div>
 	</div>
 	
+	
 	<div class="section padding-top-bottom z-bigger">
 		<div class="section z-bigger">		
 			<div class="container">
@@ -75,21 +76,21 @@
 							</div>		
 							<div id="rooms-sync1" class="owl-carousel">
 								<div class="item">
-									<img src="img/gallery/2.jpg" alt="">						
+									<img src="img/roam1/roam2.jpg" alt="">						
 								</div>
 								<div class="item">	
-									<img src="img/gallery/3.jpg" alt="">					
+									<img src="img/roam1/image2.jpg" alt="">					
 								</div>
 								<div class="item">	
-									<img src="img/gallery/4.jpg" alt="">					
+									<img src="img/roam1/image3.jpg" alt="">					
 								</div>
 								<div class="item">	
-									<img src="img/gallery/5.jpg" alt="">					
+									<img src="img/roam1/image4.jpg" alt="">					
 								</div>
 								<div class="item">	
-									<img src="img/gallery/6.jpg" alt="">					
+									<img src="img/roam1/image5.jpg" alt="">					
 								</div>
-								<div class="item">	
+								<!-- <div class="item">	
 									<img src="img/gallery/7.jpg" alt="">					
 								</div>
 								<div class="item">	
@@ -97,10 +98,9 @@
 								</div>
 								<div class="item">	
 									<img src="img/gallery/9.jpg" alt="">					
-								</div>
+								</div> -->
 							</div>
-						</div>
-						<div class="section">
+						</div>					<div class="section">
 							<div id="rooms-sync2" class="owl-carousel">
 								<div class="item">
 									<img src="img/gallery/2-s.jpg" alt="">						
@@ -214,7 +214,7 @@
 		</div>
 	</div>
 	
-	<div class="section padding-bottom over-hide">
+	<<div class="section padding-bottom over-hide">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-4" data-scroll-reveal="enter bottom move 50px over 0.7s after 0.2s">
@@ -227,13 +227,13 @@
 							<i class="fa fa-star"></i>
 							<i class="fa fa-star"></i>
 						</div>
-						<img src="img/room3.jpg" alt="">
+						<img src="img/roam1/pic.jpg" alt="">
 						<div class="room-box-in">
 							<h5 class="">pool suite</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
 							<a class="mt-1 btn btn-primary" href="rooms-gallery.html">book from 130$</a>
 							<div class="room-icons mt-4 pt-4">
-								<img src="img/5.svg" alt="">
+								<img src="img/" alt="">
 								<img src="img/2.svg" alt="">
 								<img src="img/3.svg" alt="">
 								<a href="rooms-gallery.html">full info</a>
@@ -251,7 +251,7 @@
 							<i class="fa fa-star"></i>
 							<i class="fa fa-star-o"></i>
 						</div>
-						<img src="img/room4.jpg" alt="">
+						<img src="img/roam1/roam2.jpg" alt="">
 						<div class="room-box-in">
 							<h5 class="">small room</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
@@ -275,7 +275,7 @@
 							<i class="fa fa-star"></i>
 							<i class="fa fa-star"></i>
 						</div>
-						<img src="img/room5.jpg" alt="">
+						<img src="img/roam1/roampic.jpg" alt="">
 						<div class="room-box-in">
 							<h5 class="">Apartment</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
@@ -296,38 +296,39 @@
 	<div class="section background-dark over-hide">
 		<div class="container-fluid py-4">
 			<div class="row">
-				<div class="col-sm-6 col-lg-3">
+				<!-- <div class="col-sm-4 col-lg-3">
 					<a href="services.html">
 						<div class="img-wrap services-wrap">
 							<img src="img/ser-1.jpg" alt="">
 							<div class="services-text-over">spa salon</div>
 						</div>
 					</a>
-				</div>
-				<div class="col-sm-6 col-lg-3 pt-4 pt-sm-0">
-					<a href="services.html">
+				</div> -->
+				<div class="col-sm-6 col-lg-4 pt-4 pt-lg-0">
+					<a href="restaurant.php">
 						<div class="img-wrap services-wrap">
-							<img src="img/ser-2.jpg" alt="">
+							<img src="img/roam1/restrurant.jpg" alt="">
 							<div class="services-text-over">restaurant</div>
 						</div>
 					</a>
 				</div>
-				<div class="col-sm-6 col-lg-3 pt-4 pt-lg-0">
-					<a href="services.html">
+				<div class="col-sm-6 col-lg-4 pt-4 pt-lg-0">
+					<a href="pool.php">
 						<div class="img-wrap services-wrap">
-							<img src="img/ser-3.jpg" alt="">
+							<img src="img/roam1/image.jpg" alt="">
 							<div class="services-text-over">pool</div>
 						</div>
 					</a>
 				</div>
-				<div class="col-sm-6 col-lg-3 pt-4 pt-lg-0">
-					<a href="services.html">
+				<div class="col-sm-6 col-lg-4 pt-4 pt-lg-0">
+					<a href="activities.php">
 						<div class="img-wrap services-wrap">
-							<img src="img/ser-4.jpg" alt="">
+							<img src="img/roam1/pic7.jpg" alt="">
 							<div class="services-text-over">activities</div>
 						</div>
 					</a>
 				</div>
+			</div>	
 			</div>
 		</div>
 	</div>

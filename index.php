@@ -5,7 +5,7 @@
 		<div id="poster_background"></div>
 		<div id="video-wrap" class="parallax-top">
 			<video id="video_background" preload="auto" autoplay loop="loop" muted="muted" poster="img/trans.png"> 
-				<source src="video/video-2.mp4" type="video/mp4"> 
+				<source src="video/video-1.mp4" type="video/mp4"> 
 			</video>
 		</div>
 		<div class="dark-over-video"></div>
