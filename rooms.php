@@ -69,7 +69,7 @@
 							<i class="fa fa-star"></i>
 							<i class="fa fa-star"></i>
 						</div>
-						<img src="img/room3.jpg" alt="">
+						<img src="img/roam/image2.jpg" alt="">
 						<div class="room-box-in">
 							<h5 class="">pool suite</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
@@ -94,7 +94,7 @@
 							<i class="fa fa-star"></i>
 							<i class="fa fa-star-o"></i>
 						</div>
-						<img src="img/room4.jpg" alt="">
+						<img src="img/roam/roam2.jpg" alt="">
 						<div class="room-box-in">
 							<h5 class="">small room</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
@@ -119,7 +119,7 @@
 							<i class="fa fa-star"></i>
 							<i class="fa fa-star"></i>
 						</div>
-						<img src="img/room5.jpg" alt="">
+						<img src="img/roam/roam4.jpg" alt="">
 						<div class="room-box-in">
 							<h5 class="">Apartment</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
@@ -144,7 +144,7 @@
 							<i class="fa fa-star"></i>
 							<i class="fa fa-star"></i>
 						</div>
-						<img src="img/room6.jpg" alt="">
+						<img src="img/roam/roam4.jpg" alt="">
 						<div class="room-box-in">
 							<h5 class="">big Apartment</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
@@ -169,7 +169,7 @@
 							<i class="fa fa-star"></i>
 							<i class="fa fa-star"></i>
 						</div>
-						<img src="img/room5.jpg" alt="">
+						<img src="img/roam/roampic.jpg" alt="">
 						<div class="room-box-in">
 							<h5 class="">Apartment</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
@@ -194,7 +194,7 @@
 							<i class="fa fa-star"></i>
 							<i class="fa fa-star"></i>
 						</div>
-						<img src="img/room6.jpg" alt="">
+						<img src="img/roam/roam5.jpg" alt="">
 						<div class="room-box-in">
 							<h5 class="">big Apartment</h5>
 							<p class="mt-3">Sed ut perspiciatis unde omnis, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et.</p>
@@ -216,34 +216,34 @@
 	<div class="section background-dark over-hide">
 		<div class="container-fluid py-4">
 			<div class="row">
-				<div class="col-sm-6 col-lg-3">
+				<!-- <div class="col-sm-6 col-lg-3">
 					<a href="services.html">
 						<div class="img-wrap services-wrap">
 							<img src="img/ser-1.jpg" alt="">
 							<div class="services-text-over">spa salon</div>
 						</div>
 					</a>
-				</div>
-				<div class="col-sm-6 col-lg-3 pt-4 pt-sm-0">
-					<a href="services.html">
+				</div> -->
+				<div class="col-sm-6 col-lg-4 pt-4 pt-sm-0">
+					<a href="restaurant.php">
 						<div class="img-wrap services-wrap">
-							<img src="img/ser-2.jpg" alt="">
+							<img src="img/roam/restrurant.jpg" alt="">
 							<div class="services-text-over">restaurant</div>
 						</div>
 					</a>
 				</div>
-				<div class="col-sm-6 col-lg-3 pt-4 pt-lg-0">
-					<a href="services.html">
+				<div class="col-sm-6 col-lg-4 pt-4 pt-lg-0">
+					<a href="pool.php">
 						<div class="img-wrap services-wrap">
-							<img src="img/ser-3.jpg" alt="">
+							<img src="img/roam/image.jpg" alt="">
 							<div class="services-text-over">pool</div>
 						</div>
 					</a>
 				</div>
-				<div class="col-sm-6 col-lg-3 pt-4 pt-lg-0">
-					<a href="services.html">
+				<div class="col-sm-6 col-lg-4 pt-4 pt-lg-0">
+					<a href="activities.php">
 						<div class="img-wrap services-wrap">
-							<img src="img/ser-4.jpg" alt="">
+							<img src="img/roam/pic7.jpg" alt="">
 							<div class="services-text-over">activities</div>
 						</div>
 					</a>
